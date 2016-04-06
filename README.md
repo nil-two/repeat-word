@@ -1,5 +1,5 @@
-Repeat::Word
-============
+Repeat word
+===========
 
 Generate a word which repeated a word.
 
