@@ -1,0 +1,54 @@
+html {
+  font-size: 62.5%;
+}
+
+.app {
+  padding: 8px 13px;
+  box-sizing: border-box;
+}
+
+.title {
+  font-size: 3.0rem;
+}
+
+.src {
+  margin-top: 0.8rem; 
+}
+.config-list {
+  list-style: none;
+}
+.config-item {
+  display: flex;
+  flex-flow: row wrap;
+}
+.config-item + .config-item {
+  margin-top: 0.5rem;
+}
+.label {
+  margin-right: 0.5rem;
+  width: 9.0rem;
+  font-size: 1.6rem;
+}
+.input {
+  width: 20.0rem;
+  font-size: 1.6rem;
+}
+.button {
+  width: 11.0rem;
+  font-size: 1.6rem;
+}
+.button {
+  font-size: 1.6rem;
+}
+
+.dst {
+  margin-top: 2.1rem;
+}
+.caption {
+  font-size: 2.4rem;
+}
+.result {
+  width: 54.0rem;
+  height: 32.0rem;
+  font-size: 1.2rem;
+}
