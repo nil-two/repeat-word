@@ -1,8 +1,12 @@
 html {
   font-size: 62.5%;
 }
+html, body {
+  height: 100%;
+}
 
 .app {
+  height: 100%;
   padding: 8px 13px;
   box-sizing: border-box;
 }
@@ -33,6 +37,7 @@ html {
   width: 20.0rem;
   height: 2.0rem;
   font-size: 1.2rem;
+  resize: none;
 }
 .generate {
   width: 11.0rem;
@@ -40,14 +45,15 @@ html {
 }
 
 .dst {
+  height: 60%;
   margin-top: 2.1rem;
 }
 .caption {
   font-size: 2.4rem;
 }
 .result {
-  width: 54.0rem;
-  height: 32.0rem;
+  width: 80%;
+  height: 80%;
   font-size: 1.2rem;
   resize: none;
 }
