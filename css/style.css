@@ -31,7 +31,8 @@ html {
 }
 .input {
   width: 20.0rem;
-  font-size: 1.6rem;
+  height: 2.0rem;
+  font-size: 1.2rem;
 }
 .generate {
   width: 11.0rem;
