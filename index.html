@@ -7,5 +7,31 @@
   <link rel="stylesheet" href="css/html5reset-1.6.1.css">
 </head>
 <body>
+  <div class="app">
+    <h1 class="title">Repeat word</h1>
+    <div class="src">
+      <ul class="config-list">
+        <li class="config-item">
+          <label class="label" for="src">Src</label>
+          <input type="text" id="src" class="input" name="src">
+        </li>
+        <li class="config-item">
+          <label class="label" for="count">Count</label>
+          <input type="number" id="count" class="input" name="count">
+        </li>
+        <li class="config-item">
+          <label class="label" for="separator">Separator</label>
+          <input type="separator" id="separator" class="input" name="separator">
+        </li>
+        <li class="config-item">
+          <input type="button" id="button" class="button" name="button" value="Generate">
+        </li>
+      </ul>
+    </div>
+    <div class="dst">
+      <h2 class="caption">Result:</h2>
+      <textarea id="result" class="result"></textarea>
+    </div>
+  </div>
 </body>
 </html>
