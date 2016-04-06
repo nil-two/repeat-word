@@ -37,6 +37,7 @@ html, body {
   width: 20.0rem;
   height: 2.0rem;
   font-size: 1.2rem;
+  resize: none;
 }
 .generate {
   width: 11.0rem;
