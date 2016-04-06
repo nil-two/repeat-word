@@ -48,4 +48,5 @@ html {
   width: 54.0rem;
   height: 32.0rem;
   font-size: 1.2rem;
+  resize: none;
 }
