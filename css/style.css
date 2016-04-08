@@ -18,14 +18,14 @@ html, body {
 .src {
   margin-top: 0.8rem; 
 }
-.config-list {
+.property-list {
   list-style: none;
 }
-.config-item {
+.property-item {
   display: flex;
   flex-flow: row wrap;
 }
-.config-item + .config-item {
+.property-item + .property-item {
   margin-top: 0.5rem;
 }
 .label {
