@@ -10,48 +10,45 @@ html, body {
   padding: 8px 13px;
   box-sizing: border-box;
 }
-
-.title {
+.app-title {
   font-size: 3.0rem;
 }
 
-.src {
+.properties {
   margin-top: 0.8rem; 
-}
-.property-list {
   list-style: none;
 }
-.property-item {
+.property {
   display: flex;
   flex-flow: row wrap;
 }
-.property-item + .property-item {
+.property + .property {
   margin-top: 0.5rem;
 }
-.label {
+.property-label {
   margin-right: 0.5rem;
   width: 9.0rem;
   font-size: 1.6rem;
 }
-.input {
+.property-entry {
   width: 20.0rem;
   height: 2.0rem;
   font-size: 1.2rem;
   resize: none;
 }
-.generate {
+.properties-generate {
   width: 11.0rem;
   font-size: 1.6rem;
 }
 
-.dst {
+.result {
   height: 60%;
   margin-top: 2.1rem;
 }
-.caption {
+.result-caption {
   font-size: 2.4rem;
 }
-.result {
+.result-text {
   width: 80%;
   height: 80%;
   font-size: 1.2rem;
