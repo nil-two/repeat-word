@@ -2,9 +2,9 @@ Repeat word
 ===========
 
 Generate a word which repeated a word.
-App is [here](http://nil2nekoni.github.io/repeat-word/).
+App is [here](http://nil-two.github.io/repeat-word/).
 
-![screenshot](https://raw.githubusercontent.com/nil2nekoni2/ss/master/repeat-word/app.png)
+![screenshot](https://raw.githubusercontent.com/nil-two/ss/master/repeat-word/app.png)
 
 License
 -------
